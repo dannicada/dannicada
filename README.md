@@ -31,8 +31,10 @@
         <td><img src="https://cdn.iconscout.com/icon/free/png-128/mongodb-4-1175139.png" width="100" alt="MongoDB"></td>
         <td><img src="https://cdn.iconscout.com/icon/free/png-64/mysql-18-1174938.png" width="100" alt="MySQL"></td>
         <td><img src="https://img.icons8.com/color/2x/postgreesql.png" width="100" alt="PostgreSQL"></td>
-        <td><img src="https://img.icons8.com/color/2x/c-plus-plus-logo.png" width="100" alt="C"></td>
         <td><img src="https://img.icons8.com/nolan/2x/github.png" width="100" alt="Git"></td>
+    </tr>
+    <tr>
+        <td><img src="https://img.icons8.com/fluency/48/000000/docker.png"/></td>
     </tr>
 </table>
 
@@ -47,13 +49,13 @@ I'll always be with you and your business.
 
 ### My highlight skills:
 
-✔️ Very strong knowledge of modern Frontend frameworks such as React, Angular, Vue, etc. </br>
+✔️ Very strong knowledge of modern Frontend frameworks: React, Vue, etc. </br>
 ✔️ Developed front-end for a wide range of fully responsive webpages using Modern UI libraries</br>
 ✔️ Material UI, MDB Pro React, Ant Design, React Bootstrap, Angular Material Design, ng-bootstrap, Vuetify, etc. </br>
 ✔️ Modern CSS frameworks such as Tailwind CSS, Bootstrap, Bulma CSS </br>
 ✔️ Created back-end api that will add utility to everything the front-end designer creates </br>
-✔️ Using Backend frameworks such as Node, Laravel, CodeIgniter, Django, etc. </br>
-✔️ Worked with databases such as MySQL, Sqlite, MongoDB, Oracle and so on </br>
+✔️ Using Backend frameworks such as Node, Django, etc. </br>
+✔️ Worked with databases such as Postgres, MongoDB. </br>
 ✔️ Delivered high quality and user rich solutions on time </br>
 ✔️ Worked in large development teams as a team leader </br> 
 
