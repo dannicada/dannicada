@@ -34,7 +34,7 @@
         <td><img src="https://img.icons8.com/nolan/2x/github.png" width="100" alt="Git"></td>
     </tr>
     <tr>
-        <td><img src="https://img.icons8.com/fluency/48/000000/docker.png"/></td>
+        <td><img src="https://img.icons8.com/fluency/48/000000/docker.png" width="100" alt="Docker"/></td>
     </tr>
 </table>
 
