@@ -5,7 +5,7 @@
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=mern-dev-full&row=1&column=6&theme=gruvbox&margin-w=15&margin-h=15"/>
 </p> -->
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=softfantasy.softfantasy" />
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=dannicada.dannicada" />
 <img align="right" src="https://img.shields.io/github/followers/dannicada?label=Follow&style=social" />
 <h1 align="center"></h1>
 <!-- <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=softfantasy&theme=github&count_private=true" /> -->
